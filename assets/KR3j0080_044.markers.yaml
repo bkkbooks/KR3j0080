@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0080/bkk/v1/markers/44
+seq: 44
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3j0080_tls_044-1a.1}
+  - {type: xml-element, offset: 0, content: '', id: KR3j0080_tls_044-bkkxmlele1}
+  - {type: punctuation, offset: 0, content: 《, id: KR3j0080_tls_044-bkkpn1}
+  - {type: punctuation, offset: 3, content: 》, id: KR3j0080_tls_044-bkkpn2}
+  - {type: xml-element, offset: 3, content: '', id: KR3j0080_tls_044-bkkxmlele2}
+  - {type: xml-element, offset: 3, content: '', id: KR3j0080_tls_044-bkkxmlele3}
+  - {type: xml-element, offset: 3, content: '', id: KR3j0080_tls_044-bkkxmlele4}
+  - {type: 'tls:seg', offset: 3, content: '', id: KR3j0080_tls_044-1a.3}
+  - {type: punctuation, offset: 5, content: 。, id: KR3j0080_tls_044-bkkpn3}
+  - {type: xml-element, offset: 5, content: '', id: KR3j0080_tls_044-bkkxmlele5}
+  - {type: xml-element, offset: 5, content: '', id: KR3j0080_tls_044-bkkxmlele6}
+  back: []
+hash: sha256:7f86a3e6a17a2330e1d5c2e3403e0ea526538f6b973694fa5fbd6f327370746f

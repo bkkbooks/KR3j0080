@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0080/WYG/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 論衡
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 03:59:00.833084'
+  source:
+    repository: kanripo
+    path: KR3j0080/KR3j0080_030.txt
+hash: sha256:c49ef88a6b880ba47b7f18e67ffb49779296acc80ae16b3da4b48fcad9597f91

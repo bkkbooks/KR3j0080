@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0080/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 招致篇原闕
+  hash: sha256:4279eec250a3e8811f4e855f8177c9d249b3ed99efbc48ba0fc9a12e997cd332
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3j0080_tls_044-1a.3-h}
+metadata:
+  title: 論衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0080.xml
+hash: sha256:b601c9578581f9a426405347859f2234827e32cd07bd1cb522fb7a8e1cec4c96
