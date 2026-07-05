@@ -533,7 +533,6 @@ markers:
   - {type: punctuation, offset: 28, content: ，, id: KR3j0080_tls_031-bkkpn8}
   - {type: 'tls:seg', offset: 28, content: '', id: KR3j0080_tls_031-1a.7}
   - {type: variant, offset: 30, length: 1, content: 絕, WYG: 絶}
-  - {type: substitution, offset: 30, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 31, content: 。, id: KR3j0080_tls_031-bkkpn9}
   - {type: xml-element, offset: 31, content: '', id: KR3j0080_tls_031-bkkxmlele5}
   - {type: xml-element, offset: 31, content: '', id: KR3j0080_tls_031-bkkxmlele6}
@@ -613,7 +612,6 @@ markers:
   - {type: punctuation, offset: 133, content: ，, id: KR3j0080_tls_031-bkkpn29}
   - {type: 'tls:seg', offset: 133, content: '', id: KR3j0080_tls_031-2a.5}
   - {type: variant, offset: 135, length: 1, content: 絕, WYG: 絶}
-  - {type: substitution, offset: 135, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 136, content: ，, id: KR3j0080_tls_031-bkkpn30}
   - {type: 'tls:seg', offset: 136, content: '', id: KR3j0080_tls_031-2a.6}
   - {type: punctuation, offset: 140, content: ，, id: KR3j0080_tls_031-bkkpn31}
@@ -675,7 +673,6 @@ markers:
   - {type: 'tls:seg', offset: 241, content: '', id: KR3j0080_tls_031-2a.27}
   - {type: variant, offset: 243, length: 1, content: 內, WYG: 内}
   - {type: variant, offset: 245, length: 1, content: 眾, WYG: 衆}
-  - {type: substitution, offset: 245, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 246, content: ，, id: KR3j0080_tls_031-bkkpn55}
   - {type: 'tls:seg', offset: 246, content: '', id: KR3j0080_tls_031-2a.28}
   - {type: punctuation, offset: 250, content: ，, id: KR3j0080_tls_031-bkkpn56}
@@ -931,7 +928,6 @@ markers:
   - {type: punctuation, offset: 711, content: 、, id: KR3j0080_tls_031-bkkpn169}
   - {type: 'tls:seg', offset: 711, content: '', id: KR3j0080_tls_031-6a.14}
   - {type: variant, offset: 711, length: 1, content: 絕, WYG: 絶}
-  - {type: substitution, offset: 711, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 714, content: ，, id: KR3j0080_tls_031-bkkpn170}
   - {type: 'tls:seg', offset: 714, content: '', id: KR3j0080_tls_031-6a.15}
   - {type: variant, offset: 714, length: 1, content: 銷, WYG: 消}
@@ -1033,7 +1029,6 @@ markers:
   - {type: 'tls:seg', offset: 926, content: '', id: KR3j0080_tls_031-7a.22}
   - {type: punctuation, offset: 930, content: ，, id: KR3j0080_tls_031-bkkpn219}
   - {type: 'tls:seg', offset: 930, content: '', id: KR3j0080_tls_031-7a.23}
-  - {type: substitution, offset: 931, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: variant, offset: 933, length: 1, content: 別, WYG: 别}
   - {type: punctuation, offset: 935, content: 。, id: KR3j0080_tls_031-bkkpn220}
   - {type: 'tls:seg', offset: 935, content: '', id: KR3j0080_tls_031-7a.24}
@@ -2424,4 +2419,4 @@ markers:
   - {type: page-break, offset: 1975, content: '', id: KR3j0080_WYG_031-2b, image: WYG0862/WYG0862-0347b.png}
   - {type: page-break, offset: 1975, content: '', id: KR3j0080_WYG_031-3a, image: WYG0862/WYG0862-0347c.png}
   back: []
-hash: sha256:3b81b08874a4c493e074de1c40182cae79680025419458fd11acdf75e3e21da4
+hash: sha256:e790a60d7d902a4f679e9cd799e68d5b99ac169868c937df2447dc7af9b27292

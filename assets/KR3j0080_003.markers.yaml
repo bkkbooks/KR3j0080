@@ -23,7 +23,6 @@ markers:
   - {type: variant, offset: 7, length: 6, content: 及遭累害皆由, WYG: 之數非有他氣旁物厭勝感動使之然也世謂子胥伏劔屈原自沈子蘭宰嚭誣讒呉楚之君寃殺之也偶二子}
   - {type: page-break, offset: 7, content: '', id: KR3j0080_WYG_003-1b, image: WYG0862/WYG0862-0031b.png}
   - {type: variant, offset: 7, length: 6, content: 及遭累害皆由, krp: 之數非有他氣旁物厭勝感動使之然也世謂子胥伏劔屈原自沉子蘭宰嚭誣讒呉楚之君冤殺之也偶二子}
-  - {type: substitution, offset: 9, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: punctuation, offset: 11, content: ，, id: KR3j0080_tls_003-bkkpn3}
   - {type: 'tls:seg', offset: 11, content: '', id: KR3j0080_tls_003-1a.4}
   - {type: variant, offset: 14, length: 0, content: '', SBCK: 當絶子蘭宰嚭適爲讒而懐王夫差適信姦}
@@ -203,7 +202,6 @@ markers:
   - {type: variant, offset: 232, length: 5, content: 賤治產貧富, krp: 者初稟自然之氣養育長大冨貴之}
   - {type: punctuation, offset: 233, content: ，, id: KR3j0080_tls_003-bkkpn52}
   - {type: 'tls:seg', offset: 233, content: '', id: KR3j0080_tls_003-1a.51}
-  - {type: substitution, offset: 234, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 237, content: ，, id: KR3j0080_tls_003-bkkpn53}
   - {type: 'tls:seg', offset: 237, content: '', id: KR3j0080_tls_003-1a.52}
   - {type: variant, offset: 238, length: 0, content: '', SBCK: 效矣文王得赤雀武王得白魚赤烏儒者論之以爲雀則文王受命魚烏則武王受命文武受命於天天用雀}
@@ -312,7 +310,6 @@ markers:
   - {type: 'tls:seg', offset: 329, content: '', id: KR3j0080_tls_003-2a.12}
   - {type: punctuation, offset: 333, content: ，, id: KR3j0080_tls_003-bkkpn71}
   - {type: 'tls:seg', offset: 333, content: '', id: KR3j0080_tls_003-2a.13}
-  - {type: substitution, offset: 334, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 337, content: ，, id: KR3j0080_tls_003-bkkpn72}
   - {type: 'tls:seg', offset: 337, content: '', id: KR3j0080_tls_003-2a.14}
   - {type: punctuation, offset: 341, content: ，, id: KR3j0080_tls_003-bkkpn73}
@@ -364,7 +361,6 @@ markers:
   - {type: punctuation, offset: 405, content: ：, id: KR3j0080_tls_003-bkkpn89}
   - {type: 'tls:seg', offset: 405, content: '', id: KR3j0080_tls_003-3a.8}
   - {type: punctuation, offset: 405, content: 「, id: KR3j0080_tls_003-bkkpn90}
-  - {type: substitution, offset: 405, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 409, content: ，, id: KR3j0080_tls_003-bkkpn91}
   - {type: 'tls:seg', offset: 409, content: '', id: KR3j0080_tls_003-4a.1}
   - {type: punctuation, offset: 412, content: ？, id: KR3j0080_tls_003-bkkpn92}
@@ -372,7 +368,6 @@ markers:
   - {type: 'tls:seg', offset: 412, content: '', id: KR3j0080_tls_003-4a.2}
   - {type: punctuation, offset: 418, content: ，, id: KR3j0080_tls_003-bkkpn94}
   - {type: 'tls:seg', offset: 418, content: '', id: KR3j0080_tls_003-4a.3}
-  - {type: substitution, offset: 423, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 425, content: 。, id: KR3j0080_tls_003-bkkpn95}
   - {type: xml-element, offset: 425, content: '', id: KR3j0080_tls_003-bkkxmlele19}
   - {type: xml-element, offset: 425, content: '', id: KR3j0080_tls_003-bkkxmlele20}
@@ -384,7 +379,6 @@ markers:
   - {type: variant, offset: 431, length: 2, content: 籌筴, SBCK: 語上也告子之以決水喻者徒謂中人不指極善極惡也孔子曰性相近也習相遠也夫中人之性在所習焉習善而爲善習惡而爲惡也至於極善極惡非復在習故孔子曰惟上智與下愚不移性有善不善聖化賢教不能復移易也孔子道德之祖諸子之中最卓者也而曰上智下愚不移故知告子之言未}
   - {type: variant, offset: 431, length: 2, content: 籌筴, WYG: 語上也告子之以决水喻者徒謂中人不指極善極惡也孔子曰性相近也習相逺也夫中人之性在所習焉習善而爲善習惡而爲惡也至於極善極惡非復在習故孔子曰惟上智與下愚不移性有善不善聖化賢教不能復移易也孔子道德之祖諸子之中最卓者也而曰上智下愚不移故知告子之言未}
   - {type: variant, offset: 431, length: 2, content: 籌筴, krp: 語上也告子之以決水喻者徒謂中人不指極善極惡也孔子曰性相近也習相遠也夫中人之性在所習焉習善而爲善習惡而爲惡也至於極善極惡非復在習故孔子曰惟上智與下愚不移性有善不善聖化賢教不能復移易也孔子道德之祖諸子之中最卓者也而曰上智下愚不移故知告子之言未}
-  - {type: substitution, offset: 432, original: 筴, replacement: 策, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1255}}
   - {type: punctuation, offset: 434, content: ，, id: KR3j0080_tls_003-bkkpn98}
   - {type: 'tls:seg', offset: 434, content: '', id: KR3j0080_tls_003-4a.6}
   - {type: variant, offset: 434, length: 1, content: 貴, SBCK: 實也夫告子之言亦有縁也詩曰彼姝之子何以與之其傳曰譬猶練絲染之藍則青染之朱則赤夫決水使之東西猶染絲令之青赤也丹朱商均巳染於唐虞之化矣然而丹朱慠而商均虐者至惡之質不受藍朱變也孫卿有反孟子作性惡之篇以爲人性惡其善者僞也性惡者以爲人生皆得惡性也僞者長大之後勉使爲善也若孫卿之言人㓜小無有善也稷爲兒以種樹爲戯孔子能行以俎豆爲弄石生而堅蘭生而香禀善氣長大就成故種樹之戯爲唐司馬俎豆之弄爲周聖師禀蘭石之性故有堅香之驗夫孫卿之言未爲得實然而性惡之言有縁也一歳嬰兒無推讓之心見食號欲食之睹好啼欲玩之長大之後禁情割欲勉厲爲善矣劉子政非之曰如此則天無氣也隂陽善惡不相當則人之爲善安從生陸賈曰天地生人也以禮義之性人能察己所以受命則順順之謂道夫陸賈知人禮義爲性人亦能察己所以受命性善者不待察而自善性惡者雖能察之猶背禮畔義義挹於善不能爲也故貪者能言亷亂者能言治盗跖非人之竊也莊蹻刺人之濫也明能察己口能論賢性惡不爲何益於善陸賈之言未能得實董仲舒覽孫孟之書作情性之􅀃曰天之大經一隂一陽人之大經一情一性性生於陽情生於隂隂氣鄙陽氣仁曰性善者是見其陽也謂惡者是見其隂者也若仲舒之言謂孟子見其陽孫卿見其隂也處二家各有見可也不處人情性情性有善有惡未也夫人情性同生於隂陽其生於隂陽有渥有泊玉生於石有純有駮情性於隂陽安能純善仲舒之言未能得實劉子政曰性生而然者也在於身而不發情接於物而然者也出形於外形外則謂之陽不發者則謂之隂夫子政之言謂性在身而不發情接於物形出於外故謂之陽性不發不與物接故謂之隂夫如子政之言乃謂情爲陽性爲隂也不據本所生起茍以形出與不發見定隂陽也必以形出爲陽性亦與物接造次必於是顛沛必於是惻隱不忍不忍仁之氣也卑謙辭讓性之發也有與接㑹故惻隱卑謙形出於外謂性在内不與物接恐非其實不論性之善惡徒議外内隂陽理難以知且從子政之言以性爲隂情爲陽夫人禀情竟有善惡不也自孟子以下至劉子政鴻儒博生聞見多矣然而論情性竟無定是唯世碩儒公孫尼子之徒頗得其正由此言之事易知道難論也酆文茂記繁如榮華恢諧劇談甘如飴蜜未必得實實者人性有善有惡猶人才有高有下也高}
@@ -424,7 +418,6 @@ markers:
   - {type: punctuation, offset: 460, content: 、, id: KR3j0080_tls_003-bkkpn104}
   - {type: punctuation, offset: 463, content: ；, id: KR3j0080_tls_003-bkkpn105}
   - {type: 'tls:seg', offset: 463, content: '', id: KR3j0080_tls_003-4a.11}
-  - {type: substitution, offset: 465, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: punctuation, offset: 467, content: ，, id: KR3j0080_tls_003-bkkpn106}
   - {type: 'tls:seg', offset: 467, content: '', id: KR3j0080_tls_003-4a.12}
   - {type: punctuation, offset: 473, content: 。, id: KR3j0080_tls_003-bkkpn107}
@@ -659,7 +652,6 @@ markers:
   - {type: 'tls:seg', offset: 696, content: '', id: KR3j0080_tls_003-6a.7}
   - {type: punctuation, offset: 700, content: ，, id: KR3j0080_tls_003-bkkpn153}
   - {type: 'tls:seg', offset: 700, content: '', id: KR3j0080_tls_003-6a.8}
-  - {type: substitution, offset: 702, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1354}}
   - {type: punctuation, offset: 703, content: 。, id: KR3j0080_tls_003-bkkpn154}
   - {type: 'tls:seg', offset: 703, content: '', id: KR3j0080_tls_003-6a.9}
   - {type: punctuation, offset: 709, content: ，, id: KR3j0080_tls_003-bkkpn155}
@@ -672,7 +664,6 @@ markers:
   - {type: punctuation, offset: 718, content: ，, id: KR3j0080_tls_003-bkkpn158}
   - {type: punctuation, offset: 722, content: ，, id: KR3j0080_tls_003-bkkpn159}
   - {type: 'tls:seg', offset: 722, content: '', id: KR3j0080_tls_003-6a.12}
-  - {type: substitution, offset: 723, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: variant, offset: 725, length: 62, content: 玉人謂術善學明非也主父偃辱賤於齊排擯不用赴闕舉䟽遂用於漢官至齊相趙人徐樂亦上書與偃章會上善其言徵拜為郎人謂偃之才樂之慧非也儒, SBCK: 氣􅀒}
   - {type: variant, offset: 725, length: 62, content: 玉人謂術善學明非也主父偃辱賤於齊排擯不用赴闕舉䟽遂用於漢官至齊相趙人徐樂亦上書與偃章會上善其言徵拜為郎人謂偃之才樂之慧非也儒, WYG: 氣負}
   - {type: variant, offset: 725, length: 62, content: 玉人謂術善學明非也主父偃辱賤於齊排擯不用赴闕舉䟽遂用於漢官至齊相趙人徐樂亦上書與偃章會上善其言徵拜為郎人謂偃之才樂之慧非也儒, krp: 氣負}
@@ -685,7 +676,6 @@ markers:
   - {type: 'tls:seg', offset: 741, content: '', id: KR3j0080_tls_003-6a.15}
   - {type: punctuation, offset: 745, content: ；, id: KR3j0080_tls_003-bkkpn164}
   - {type: 'tls:seg', offset: 745, content: '', id: KR3j0080_tls_003-6a.16}
-  - {type: substitution, offset: 748, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3186}}
   - {type: punctuation, offset: 749, content: ，, id: KR3j0080_tls_003-bkkpn165}
   - {type: 'tls:seg', offset: 749, content: '', id: KR3j0080_tls_003-6a.17}
   - {type: punctuation, offset: 753, content: ，, id: KR3j0080_tls_003-bkkpn166}
@@ -712,7 +702,6 @@ markers:
   - {type: 'tls:seg', offset: 792, content: '', id: KR3j0080_tls_003-6a.24}
   - {type: punctuation, offset: 796, content: ，, id: KR3j0080_tls_003-bkkpn176}
   - {type: 'tls:seg', offset: 796, content: '', id: KR3j0080_tls_003-6a.25}
-  - {type: substitution, offset: 799, original: 穉, replacement: 稚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1376}}
   - {type: punctuation, offset: 801, content: ，, id: KR3j0080_tls_003-bkkpn177}
   - {type: 'tls:seg', offset: 801, content: '', id: KR3j0080_tls_003-6a.26}
   - {type: punctuation, offset: 807, content: ，, id: KR3j0080_tls_003-bkkpn178}
@@ -1063,7 +1052,6 @@ markers:
   - {type: 'tls:seg', offset: 1430, content: '', id: KR3j0080_tls_003-10a.27}
   - {type: punctuation, offset: 1435, content: ，, id: KR3j0080_tls_003-bkkpn329}
   - {type: 'tls:seg', offset: 1435, content: '', id: KR3j0080_tls_003-10a.28}
-  - {type: substitution, offset: 1438, original: 勁, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3912}}
   - {type: punctuation, offset: 1439, content: ，, id: KR3j0080_tls_003-bkkpn330}
   - {type: xml-element, offset: 1439, content: '', id: KR3j0080_tls_003-bkkxmlele61}
   - {type: xml-element, offset: 1439, content: '', id: KR3j0080_tls_003-bkkxmlele62}
@@ -1202,4 +1190,4 @@ markers:
   - {type: xml-element, offset: 1628, content: '', id: KR3j0080_tls_003-bkkxmlele70}
   - {type: page-break, offset: 1628, content: '', id: KR3j0080_SBCK_003-27b}
   back: []
-hash: sha256:69d2f7c741f56cd5cc459437b97f0533650c8d0fc7e4081a1349de5745a8203b
+hash: sha256:0584cb8fd16e3863263c089896cd0a547184ea70f7ac440003b912025557d8f9

@@ -158,7 +158,6 @@ markers:
   - {type: variant, offset: 95, length: 9, content: 未必偽賞信者偶罰疑, SBCK: 人也人}
   - {type: variant, offset: 95, length: 9, content: 未必偽賞信者偶罰疑, WYG: 人也人}
   - {type: variant, offset: 95, length: 9, content: 未必偽賞信者偶罰疑, krp: 人也人}
-  - {type: substitution, offset: 97, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 98, content: ，, id: KR3j0080_tls_005-bkkpn23}
   - {type: 'tls:seg', offset: 98, content: '', id: KR3j0080_tls_005-1a.23}
   - {type: punctuation, offset: 102, content: ，, id: KR3j0080_tls_005-bkkpn24}
@@ -266,7 +265,6 @@ markers:
   - {type: 'tls:seg', offset: 297, content: '', id: KR3j0080_tls_005-2a.44}
   - {type: punctuation, offset: 301, content: ，, id: KR3j0080_tls_005-bkkpn71}
   - {type: 'tls:seg', offset: 301, content: '', id: KR3j0080_tls_005-2a.45}
-  - {type: substitution, offset: 303, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 305, content: ，, id: KR3j0080_tls_005-bkkpn72}
   - {type: 'tls:seg', offset: 305, content: '', id: KR3j0080_tls_005-2a.46}
   - {type: punctuation, offset: 309, content: 。, id: KR3j0080_tls_005-bkkpn73}
@@ -525,7 +523,6 @@ markers:
   - {type: punctuation, offset: 585, content: ，, id: KR3j0080_tls_005-bkkpn142}
   - {type: punctuation, offset: 589, content: 。, id: KR3j0080_tls_005-bkkpn143}
   - {type: 'tls:seg', offset: 589, content: '', id: KR3j0080_tls_005-5a.6}
-  - {type: substitution, offset: 591, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: punctuation, offset: 593, content: ，, id: KR3j0080_tls_005-bkkpn144}
   - {type: punctuation, offset: 597, content: ；, id: KR3j0080_tls_005-bkkpn145}
   - {type: 'tls:seg', offset: 597, content: '', id: KR3j0080_tls_005-5a.7}
@@ -566,7 +563,6 @@ markers:
   - {type: variant, offset: 637, length: 50, content: 晉文脩文德徐偃行仁義文公以賞賜偃王以破滅魯人為父報仇安行不走追者捨之牛缺為盜所奪和意不恐盜還殺之文德, SBCK: 也湯}
   - {type: variant, offset: 637, length: 50, content: 晉文脩文德徐偃行仁義文公以賞賜偃王以破滅魯人為父報仇安行不走追者捨之牛缺為盜所奪和意不恐盜還殺之文德, WYG: 也湯}
   - {type: variant, offset: 637, length: 50, content: 晉文脩文德徐偃行仁義文公以賞賜偃王以破滅魯人為父報仇安行不走追者捨之牛缺為盜所奪和意不恐盜還殺之文德, krp: 也湯}
-  - {type: substitution, offset: 639, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 642, content: ，, id: KR3j0080_tls_005-bkkpn154}
   - {type: 'tls:seg', offset: 642, content: '', id: KR3j0080_tls_005-5a.15}
   - {type: punctuation, offset: 647, content: ，, id: KR3j0080_tls_005-bkkpn155}
@@ -858,7 +854,6 @@ markers:
   - {type: variant, offset: 1119, length: 1, content: 絕, SBCK: 晉}
   - {type: variant, offset: 1119, length: 1, content: 絕, WYG: 晉}
   - {type: variant, offset: 1119, length: 1, content: 絕, krp: 晉}
-  - {type: substitution, offset: 1119, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: variant, offset: 1120, length: 1, content: 糧, SBCK: 伯}
   - {type: variant, offset: 1120, length: 1, content: 糧, WYG: 伯}
   - {type: variant, offset: 1120, length: 1, content: 糧, krp: 伯}
@@ -915,7 +910,6 @@ markers:
   - {type: variant, offset: 1159, length: 3, content: 禍必眾, SBCK: 字一有於世世則謂之能卻蝗蟲矣何以驗之夫蝗之集於野非能普博盡蔽地也往往積聚}
   - {type: variant, offset: 1159, length: 3, content: 禍必眾, WYG: 字於世世則謂之能卻蝗蟲矣何以驗之夫蝗之集於野非能普博盡蔽地也往往積聚}
   - {type: variant, offset: 1159, length: 3, content: 禍必眾, krp: 字一有於世世則謂之能卻蝗蟲矣何以驗之夫蝗之集於野非能普博盡蔽地也往往積聚}
-  - {type: substitution, offset: 1161, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: variant, offset: 1163, length: 0, content: '', SBCK: 少有處非所積之地則盗跖所居所少之野則伯夷所處也集過有多少不能盡蔽覆也夫集地有多少則其過縣有留去}
   - {type: page-break, offset: 1163, content: '', id: KR3j0080_SBCK_005-20a}
   - {type: variant, offset: 1163, length: 0, content: '', WYG: 少有處非所積之地則盗跖所居所少之野則伯夷所處也集過有多少不能盡蔽覆也夫集地有多少則其過縣有留去}
@@ -928,4 +922,4 @@ markers:
   - {type: variant, offset: 1164, length: 0, content: '', WYG: 多少不可以驗善惡有無安可以明賢不肖也蓋時蝗自過不謂賢人界不入明矣論衡卷五}
   - {type: variant, offset: 1164, length: 0, content: '', krp: 多少不可以驗善惡有無安可以明賢不肖也蓋時蝗自過不謂賢人界不入明矣論衡卷第五}
   back: []
-hash: sha256:33d0fc9f5acca389f9da524b31bb780c44530f47669e4334dc3b4a9808adf62a
+hash: sha256:96d6b646abaf1264e742ec73bbb7e04d883af39279545f106f057390142a2fa9

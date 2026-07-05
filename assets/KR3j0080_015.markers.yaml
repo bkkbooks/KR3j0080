@@ -211,8 +211,6 @@ markers:
   - {type: 'tls:seg', offset: 291, content: '', id: KR3j0080_tls_015-5a.15}
   - {type: punctuation, offset: 296, content: ，, id: KR3j0080_tls_015-bkkpn82}
   - {type: 'tls:seg', offset: 296, content: '', id: KR3j0080_tls_015-5a.16}
-  - {type: substitution, offset: 298, original: 嚥, replacement: 咽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0721}}
-  - {type: substitution, offset: 299, original: 鷰, replacement: 燕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1516}}
   - {type: punctuation, offset: 301, content: ，, id: KR3j0080_tls_015-bkkpn83}
   - {type: 'tls:seg', offset: 301, content: '', id: KR3j0080_tls_015-5a.17}
   - {type: punctuation, offset: 308, content: ，, id: KR3j0080_tls_015-bkkpn84}
@@ -285,7 +283,6 @@ markers:
   - {type: 'tls:seg', offset: 424, content: '', id: KR3j0080_tls_015-6a.12}
   - {type: punctuation, offset: 430, content: ，, id: KR3j0080_tls_015-bkkpn114}
   - {type: 'tls:seg', offset: 430, content: '', id: KR3j0080_tls_015-6a.13}
-  - {type: substitution, offset: 435, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 438, content: 。, id: KR3j0080_tls_015-bkkpn115}
   - {type: 'tls:seg', offset: 438, content: '', id: KR3j0080_tls_015-6a.14}
   - {type: punctuation, offset: 443, content: ，, id: KR3j0080_tls_015-bkkpn116}
@@ -1012,7 +1009,6 @@ markers:
   - {type: 'tls:seg', offset: 1493, content: '', id: KR3j0080_tls_015-13a.22}
   - {type: punctuation, offset: 1498, content: 。, id: KR3j0080_tls_015-bkkpn382}
   - {type: 'tls:seg', offset: 1498, content: '', id: KR3j0080_tls_015-13a.23}
-  - {type: substitution, offset: 1502, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: variant, offset: 1506, length: 50, content: 宮鳳凰集於地嘉禾生於屋聖人之生奇鳥吉物之為瑞應必以奇吉之物見而子生謂之物之子是則光武皇帝嘉禾之精鳳皇, SBCK: ''}
   - {type: variant, offset: 1506, length: 50, content: 宮鳳凰集於地嘉禾生於屋聖人之生奇鳥吉物之為瑞應必以奇吉之物見而子生謂之物之子是則光武皇帝嘉禾之精鳳皇, WYG: ''}
   - {type: variant, offset: 1506, length: 50, content: 宮鳳凰集於地嘉禾生於屋聖人之生奇鳥吉物之為瑞應必以奇吉之物見而子生謂之物之子是則光武皇帝嘉禾之精鳳皇, krp: ''}
@@ -1186,4 +1182,4 @@ markers:
   - {type: xml-element, offset: 1716, content: '', id: KR3j0080_tls_015-bkkxmlele96}
   - {type: page-break, offset: 1716, content: '', id: KR3j0080_SBCK_015-19b}
   back: []
-hash: sha256:9e13f2aa4ef347eed99a5e47d886dea8d09e0449b9abc4db9220f4249b18e0c3
+hash: sha256:a453aae9c8d76614047da623631e17a109c89acc9bf91a2f4eec2fc3475380d2

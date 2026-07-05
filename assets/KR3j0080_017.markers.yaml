@@ -292,10 +292,8 @@ markers:
   - {type: 'tls:seg', offset: 369, content: '', id: KR3j0080_tls_017-3a.6}
   - {type: punctuation, offset: 373, content: 。, id: KR3j0080_tls_017-bkkpn109}
   - {type: 'tls:seg', offset: 373, content: '', id: KR3j0080_tls_017-3a.7}
-  - {type: substitution, offset: 376, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1354}}
   - {type: punctuation, offset: 377, content: ，, id: KR3j0080_tls_017-bkkpn110}
   - {type: 'tls:seg', offset: 377, content: '', id: KR3j0080_tls_017-3a.8}
-  - {type: substitution, offset: 378, original: 貳, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3868}}
   - {type: punctuation, offset: 381, content: ，, id: KR3j0080_tls_017-bkkpn111}
   - {type: 'tls:seg', offset: 381, content: '', id: KR3j0080_tls_017-3a.9}
   - {type: punctuation, offset: 387, content: ？, id: KR3j0080_tls_017-bkkpn112}
@@ -820,7 +818,6 @@ markers:
   - {type: punctuation, offset: 1115, content: ，, id: KR3j0080_tls_017-bkkpn272}
   - {type: 'tls:seg', offset: 1115, content: '', id: KR3j0080_tls_017-6a.17}
   - {type: punctuation, offset: 1120, content: ，, id: KR3j0080_tls_017-bkkpn273}
-  - {type: substitution, offset: 1120, original: 澹, replacement: 淡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3894}}
   - {type: punctuation, offset: 1124, content: ，, id: KR3j0080_tls_017-bkkpn274}
   - {type: 'tls:seg', offset: 1124, content: '', id: KR3j0080_tls_017-6a.18}
   - {type: punctuation, offset: 1128, content: 。, id: KR3j0080_tls_017-bkkpn275}
@@ -1038,7 +1035,6 @@ markers:
   - {type: 'tls:seg', offset: 1473, content: '', id: KR3j0080_tls_017-9a.5}
   - {type: punctuation, offset: 1481, content: ，, id: KR3j0080_tls_017-bkkpn356}
   - {type: 'tls:seg', offset: 1481, content: '', id: KR3j0080_tls_017-9a.6}
-  - {type: substitution, offset: 1484, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
   - {type: punctuation, offset: 1485, content: 。, id: KR3j0080_tls_017-bkkpn357}
   - {type: 'tls:seg', offset: 1485, content: '', id: KR3j0080_tls_017-9a.7}
   - {type: punctuation, offset: 1490, content: ，, id: KR3j0080_tls_017-bkkpn358}
@@ -1081,14 +1077,12 @@ markers:
   - {type: 'tls:seg', offset: 1560, content: '', id: KR3j0080_tls_017-10a.5}
   - {type: punctuation, offset: 1564, content: ，, id: KR3j0080_tls_017-bkkpn376}
   - {type: 'tls:seg', offset: 1564, content: '', id: KR3j0080_tls_017-10a.6}
-  - {type: substitution, offset: 1567, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 1568, content: ，, id: KR3j0080_tls_017-bkkpn377}
   - {type: variant, offset: 1569, length: 210, content: 以除之子產不聽天道當然人事不能卻也使子產聽梓慎四國能無災乎堯遭鴻水時臣必有梓慎子韋之知矣然而不卻除者堯與子產同心也案子韋之言曰熒惑天使也心宋分野也禍當君審如此言禍不可除星不可卻也若夫寒溫失和風雨不時政事之家謂之失誤所致可以善政賢行變而復也若熒惑守心若必死猶亡禍安可除修政改行安能卻之善政賢行尚不能卻出虛華之三言謂星卻而禍除增壽延年享長久之福誤矣觀子韋之言景公言熒惑之禍非寒暑風雨之類身死命終之祥也國且亡身且死祅氣見於天容, SBCK: 凶}
   - {type: variant, offset: 1569, length: 210, content: 以除之子產不聽天道當然人事不能卻也使子產聽梓慎四國能無災乎堯遭鴻水時臣必有梓慎子韋之知矣然而不卻除者堯與子產同心也案子韋之言曰熒惑天使也心宋分野也禍當君審如此言禍不可除星不可卻也若夫寒溫失和風雨不時政事之家謂之失誤所致可以善政賢行變而復也若熒惑守心若必死猶亡禍安可除修政改行安能卻之善政賢行尚不能卻出虛華之三言謂星卻而禍除增壽延年享長久之福誤矣觀子韋之言景公言熒惑之禍非寒暑風雨之類身死命終之祥也國且亡身且死祅氣見於天容, WYG: 凶}
   - {type: variant, offset: 1569, length: 210, content: 以除之子產不聽天道當然人事不能卻也使子產聽梓慎四國能無災乎堯遭鴻水時臣必有梓慎子韋之知矣然而不卻除者堯與子產同心也案子韋之言曰熒惑天使也心宋分野也禍當君審如此言禍不可除星不可卻也若夫寒溫失和風雨不時政事之家謂之失誤所致可以善政賢行變而復也若熒惑守心若必死猶亡禍安可除修政改行安能卻之善政賢行尚不能卻出虛華之三言謂星卻而禍除增壽延年享長久之福誤矣觀子韋之言景公言熒惑之禍非寒暑風雨之類身死命終之祥也國且亡身且死祅氣見於天容, krp: 凶}
   - {type: punctuation, offset: 1572, content: ，, id: KR3j0080_tls_017-bkkpn378}
   - {type: 'tls:seg', offset: 1572, content: '', id: KR3j0080_tls_017-10a.7}
-  - {type: substitution, offset: 1573, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 1576, content: 。, id: KR3j0080_tls_017-bkkpn379}
   - {type: 'tls:seg', offset: 1576, content: '', id: KR3j0080_tls_017-10a.8}
   - {type: punctuation, offset: 1580, content: ，, id: KR3j0080_tls_017-bkkpn380}
@@ -1097,7 +1091,6 @@ markers:
   - {type: xml-element, offset: 1586, content: '', id: KR3j0080_tls_017-bkkxmlele83}
   - {type: xml-element, offset: 1586, content: '', id: KR3j0080_tls_017-bkkxmlele84}
   - {type: 'tls:seg', offset: 1586, content: '', id: KR3j0080_tls_017-10a.10}
-  - {type: substitution, offset: 1588, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 1592, content: ，, id: KR3j0080_tls_017-bkkpn382}
   - {type: 'tls:seg', offset: 1592, content: '', id: KR3j0080_tls_017-10a.11}
   - {type: punctuation, offset: 1598, content: ？, id: KR3j0080_tls_017-bkkpn383}
@@ -1110,7 +1103,6 @@ markers:
   - {type: 'tls:seg', offset: 1613, content: '', id: KR3j0080_tls_017-10a.15}
   - {type: punctuation, offset: 1619, content: ，, id: KR3j0080_tls_017-bkkpn387}
   - {type: 'tls:seg', offset: 1619, content: '', id: KR3j0080_tls_017-10a.16}
-  - {type: substitution, offset: 1622, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 1626, content: 。, id: KR3j0080_tls_017-bkkpn388}
   - {type: xml-element, offset: 1626, content: '', id: KR3j0080_tls_017-bkkxmlele85}
   - {type: xml-element, offset: 1626, content: '', id: KR3j0080_tls_017-bkkxmlele86}
@@ -1490,7 +1482,6 @@ markers:
   - {type: punctuation, offset: 2199, content: ？, id: KR3j0080_tls_017-bkkpn518}
   - {type: punctuation, offset: 2199, content: 」, id: KR3j0080_tls_017-bkkpn519}
   - {type: 'tls:seg', offset: 2199, content: '', id: KR3j0080_tls_017-16a.13}
-  - {type: substitution, offset: 2201, original: 嘿, replacement: 默, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3906}}
   - {type: punctuation, offset: 2205, content: 。, id: KR3j0080_tls_017-bkkpn520}
   - {type: xml-element, offset: 2205, content: '', id: KR3j0080_tls_017-bkkxmlele113}
   - {type: xml-element, offset: 2205, content: '', id: KR3j0080_tls_017-bkkxmlele114}
@@ -1552,7 +1543,6 @@ markers:
   - {type: 'tls:seg', offset: 2321, content: '', id: KR3j0080_tls_017-17a.1}
   - {type: 'tls:seg', offset: 2321, content: '', id: KR3j0080_tls_017-17a.2}
   - {type: punctuation, offset: 2324, content: 《, id: KR3j0080_tls_017-bkkpn551}
-  - {type: substitution, offset: 2325, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 2328, content: 》, id: KR3j0080_tls_017-bkkpn552}
   - {type: 'tls:seg', offset: 2328, content: '', id: KR3j0080_tls_017-17a.3}
   - {type: punctuation, offset: 2330, content: ：, id: KR3j0080_tls_017-bkkpn553}
@@ -1593,4 +1583,4 @@ markers:
   - {type: xml-element, offset: 2389, content: '', id: KR3j0080_tls_017-bkkxmlele122}
   - {type: page-break, offset: 2389, content: '', id: KR3j0080_SBCK_017-17b}
   back: []
-hash: sha256:4add6e55508dfab5ae6814bda739a1e0c91d152eb92be7e9eefc9c44df2e3fc7
+hash: sha256:5368a4845d1b487ceaf4de4b4501d0dfcc073760175a07fcbaea1b97d0316906

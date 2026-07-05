@@ -104,7 +104,6 @@ markers:
   - {type: variant, offset: 58, length: 27, content: 命當絕子蘭宰嚭適為讒而懷王夫差適信姦也君適不明臣適為讒, SBCK: 使齊有}
   - {type: variant, offset: 58, length: 27, content: 命當絕子蘭宰嚭適為讒而懷王夫差適信姦也君適不明臣適為讒, WYG: 使齊有}
   - {type: variant, offset: 58, length: 27, content: 命當絕子蘭宰嚭適為讒而懷王夫差適信姦也君適不明臣適為讒, krp: 使齊有}
-  - {type: substitution, offset: 60, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 61, content: ，, id: KR3j0080_tls_010-bkkpn14}
   - {type: 'tls:seg', offset: 61, content: '', id: KR3j0080_tls_010-2a.7}
   - {type: punctuation, offset: 63, content: 、, id: KR3j0080_tls_010-bkkpn15}
@@ -310,7 +309,6 @@ markers:
   - {type: 'tls:seg', offset: 239, content: '', id: KR3j0080_tls_010-3a.24}
   - {type: punctuation, offset: 243, content: ，, id: KR3j0080_tls_010-bkkpn57}
   - {type: 'tls:seg', offset: 243, content: '', id: KR3j0080_tls_010-3a.25}
-  - {type: substitution, offset: 244, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 247, content: ，, id: KR3j0080_tls_010-bkkpn58}
   - {type: 'tls:seg', offset: 247, content: '', id: KR3j0080_tls_010-3a.26}
   - {type: variant, offset: 247, length: 29, content: 度數相得顏淵死子曰天喪予子路死子曰天祝予孔子自傷之辭非實然, SBCK: 國治國}
@@ -326,7 +324,6 @@ markers:
   - {type: punctuation, offset: 256, content: ：, id: KR3j0080_tls_010-bkkpn61}
   - {type: 'tls:seg', offset: 256, content: '', id: KR3j0080_tls_010-4a.4}
   - {type: punctuation, offset: 256, content: 「, id: KR3j0080_tls_010-bkkpn62}
-  - {type: substitution, offset: 258, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
   - {type: punctuation, offset: 259, content: 。, id: KR3j0080_tls_010-bkkpn63}
   - {type: punctuation, offset: 259, content: 」, id: KR3j0080_tls_010-bkkpn64}
   - {type: 'tls:seg', offset: 259, content: '', id: KR3j0080_tls_010-4a.5}
@@ -335,7 +332,6 @@ markers:
   - {type: punctuation, offset: 264, content: ：, id: KR3j0080_tls_010-bkkpn66}
   - {type: 'tls:seg', offset: 264, content: '', id: KR3j0080_tls_010-4a.7}
   - {type: punctuation, offset: 264, content: 「, id: KR3j0080_tls_010-bkkpn67}
-  - {type: substitution, offset: 266, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
   - {type: punctuation, offset: 267, content: 。, id: KR3j0080_tls_010-bkkpn68}
   - {type: punctuation, offset: 267, content: 」, id: KR3j0080_tls_010-bkkpn69}
   - {type: 'tls:seg', offset: 267, content: '', id: KR3j0080_tls_010-4a.8}
@@ -630,7 +626,6 @@ markers:
   - {type: variant, offset: 676, length: 8, content: 人遭㞐適履月毀於, krp: 期乎如是其期}
   - {type: punctuation, offset: 677, content: ，, id: KR3j0080_tls_010-bkkpn145}
   - {type: 'tls:seg', offset: 677, content: '', id: KR3j0080_tls_010-12a.7}
-  - {type: substitution, offset: 678, original: 㞐, replacement: 居, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3858}}
   - {type: punctuation, offset: 681, content: 。, id: KR3j0080_tls_010-bkkpn146}
   - {type: xml-element, offset: 681, content: '', id: KR3j0080_tls_010-bkkxmlele37}
   - {type: xml-element, offset: 681, content: '', id: KR3j0080_tls_010-bkkxmlele38}
@@ -722,7 +717,6 @@ markers:
   - {type: 'tls:seg', offset: 813, content: '', id: KR3j0080_tls_010-15a.20}
   - {type: punctuation, offset: 817, content: ，, id: KR3j0080_tls_010-bkkpn174}
   - {type: 'tls:seg', offset: 817, content: '', id: KR3j0080_tls_010-15a.21}
-  - {type: substitution, offset: 818, original: 壹, replacement: 一, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3874}}
   - {type: punctuation, offset: 821, content: ；, id: KR3j0080_tls_010-bkkpn175}
   - {type: xml-element, offset: 821, content: '', id: KR3j0080_tls_010-bkkxmlele43}
   - {type: xml-element, offset: 821, content: '', id: KR3j0080_tls_010-bkkxmlele44}
@@ -1141,7 +1135,6 @@ markers:
   - {type: 'tls:seg', offset: 1307, content: '', id: KR3j0080_tls_010-19a.12}
   - {type: punctuation, offset: 1311, content: 。, id: KR3j0080_tls_010-bkkpn287}
   - {type: 'tls:seg', offset: 1311, content: '', id: KR3j0080_tls_010-19a.13}
-  - {type: substitution, offset: 1314, original: 愬, replacement: 訴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0409}}
   - {type: variant, offset: 1317, length: 4, content: 於季孫孔, SBCK: 葅天下極戮非徒桎梏也必以桎梏效非正命則比干}
   - {type: variant, offset: 1317, length: 4, content: 於季孫孔, WYG: 葅天下極戮非徒桎梏也必以桎梏效非正命則比干}
   - {type: variant, offset: 1317, length: 4, content: 於季孫孔, krp: 葅天下極戮非徒桎梏也必以桎梏效非正命則比干}
@@ -1343,4 +1336,4 @@ markers:
   - {type: xml-element, offset: 1678, content: '', id: KR3j0080_tls_010-bkkxmlele76}
   - {type: page-break, offset: 1678, content: '', id: KR3j0080_SBCK_010-20b}
   back: []
-hash: sha256:bbed8eb381ca7c0cd18230b38af3920271b10b6f1e1c0d021ebd73c4b31cde51
+hash: sha256:eb6d78b6b01cfd51f01503ce75d46c8769fba2e98d09a208fb87817693494215
