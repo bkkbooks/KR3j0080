@@ -523,6 +523,7 @@ markers:
   - {type: punctuation, offset: 585, content: ，, id: KR3j0080_tls_005-bkkpn142}
   - {type: punctuation, offset: 589, content: 。, id: KR3j0080_tls_005-bkkpn143}
   - {type: 'tls:seg', offset: 589, content: '', id: KR3j0080_tls_005-5a.6}
+  - {type: substitution, offset: 591, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: punctuation, offset: 593, content: ，, id: KR3j0080_tls_005-bkkpn144}
   - {type: punctuation, offset: 597, content: ；, id: KR3j0080_tls_005-bkkpn145}
   - {type: 'tls:seg', offset: 597, content: '', id: KR3j0080_tls_005-5a.7}
@@ -563,6 +564,7 @@ markers:
   - {type: variant, offset: 637, length: 50, content: 晉文脩文德徐偃行仁義文公以賞賜偃王以破滅魯人為父報仇安行不走追者捨之牛缺為盜所奪和意不恐盜還殺之文德, SBCK: 也湯}
   - {type: variant, offset: 637, length: 50, content: 晉文脩文德徐偃行仁義文公以賞賜偃王以破滅魯人為父報仇安行不走追者捨之牛缺為盜所奪和意不恐盜還殺之文德, WYG: 也湯}
   - {type: variant, offset: 637, length: 50, content: 晉文脩文德徐偃行仁義文公以賞賜偃王以破滅魯人為父報仇安行不走追者捨之牛缺為盜所奪和意不恐盜還殺之文德, krp: 也湯}
+  - {type: substitution, offset: 639, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 642, content: ，, id: KR3j0080_tls_005-bkkpn154}
   - {type: 'tls:seg', offset: 642, content: '', id: KR3j0080_tls_005-5a.15}
   - {type: punctuation, offset: 647, content: ，, id: KR3j0080_tls_005-bkkpn155}
@@ -854,6 +856,7 @@ markers:
   - {type: variant, offset: 1119, length: 1, content: 絕, SBCK: 晉}
   - {type: variant, offset: 1119, length: 1, content: 絕, WYG: 晉}
   - {type: variant, offset: 1119, length: 1, content: 絕, krp: 晉}
+  - {type: substitution, offset: 1119, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: variant, offset: 1120, length: 1, content: 糧, SBCK: 伯}
   - {type: variant, offset: 1120, length: 1, content: 糧, WYG: 伯}
   - {type: variant, offset: 1120, length: 1, content: 糧, krp: 伯}
@@ -910,6 +913,7 @@ markers:
   - {type: variant, offset: 1159, length: 3, content: 禍必眾, SBCK: 字一有於世世則謂之能卻蝗蟲矣何以驗之夫蝗之集於野非能普博盡蔽地也往往積聚}
   - {type: variant, offset: 1159, length: 3, content: 禍必眾, WYG: 字於世世則謂之能卻蝗蟲矣何以驗之夫蝗之集於野非能普博盡蔽地也往往積聚}
   - {type: variant, offset: 1159, length: 3, content: 禍必眾, krp: 字一有於世世則謂之能卻蝗蟲矣何以驗之夫蝗之集於野非能普博盡蔽地也往往積聚}
+  - {type: substitution, offset: 1161, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: variant, offset: 1163, length: 0, content: '', SBCK: 少有處非所積之地則盗跖所居所少之野則伯夷所處也集過有多少不能盡蔽覆也夫集地有多少則其過縣有留去}
   - {type: page-break, offset: 1163, content: '', id: KR3j0080_SBCK_005-20a}
   - {type: variant, offset: 1163, length: 0, content: '', WYG: 少有處非所積之地則盗跖所居所少之野則伯夷所處也集過有多少不能盡蔽覆也夫集地有多少則其過縣有留去}
@@ -922,4 +926,4 @@ markers:
   - {type: variant, offset: 1164, length: 0, content: '', WYG: 多少不可以驗善惡有無安可以明賢不肖也蓋時蝗自過不謂賢人界不入明矣論衡卷五}
   - {type: variant, offset: 1164, length: 0, content: '', krp: 多少不可以驗善惡有無安可以明賢不肖也蓋時蝗自過不謂賢人界不入明矣論衡卷第五}
   back: []
-hash: sha256:96d6b646abaf1264e742ec73bbb7e04d883af39279545f106f057390142a2fa9
+hash: sha256:c39b0ccff18bf31913234b8a0bdd53976cda7e05bb74f72e2e9d1bb49e4e7486
