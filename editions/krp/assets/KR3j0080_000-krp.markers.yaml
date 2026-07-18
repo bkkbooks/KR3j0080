@@ -233,6 +233,7 @@ markers:
   - {type: line-break, offset: 675, content: '', id: KR3j0080_SBCK_000-3a01}
   - {type: variant, offset: 678, length: 6, content: 錄八十五篇凡, WYG: 録雜家類}
   - {type: punctuation, offset: 679, content: (, id: KR3j0080_krp_000-bkkpn1}
+  - {type: 'voice:problem', offset: 679, length: 0, id: KR3j0080_krp_000-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 679}
   - {type: punctuation, offset: 683, content: /, id: KR3j0080_krp_000-bkkpn2}
   - {type: variant, offset: 685, length: 1, content: 十, WYG: 雜説之屬}
   - {type: variant, offset: 687, length: 3, content: 王充第, WYG: ''}
@@ -243,6 +244,7 @@ markers:
       ', id: KR3j0080_krp_000-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR3j0080_SBCK_000-3a02}
   - {type: indent, offset: 0, content: 　　　　　　　　　　　, id: KR3j0080_krp_000-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR3j0080_krp_000-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 1, content: 　, id: KR3j0080_krp_000-bkkind2}
   - {type: 'kr:newline', offset: 2, content: '
 
@@ -965,4 +967,4 @@ markers:
 
       ', id: KR3j0080_krp_000-bkkkrnewl129}
   back: []
-hash: sha256:707446d6d13f860a699ebefe3f83a49eedd4adc60483c91de67fc9a66fb1210a
+hash: sha256:4c5f1c8b1112519ac5a3491b64b24e149574d045f6e8aff4f000d07147aba783

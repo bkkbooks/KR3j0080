@@ -89,6 +89,7 @@ markers:
   - {type: indent, offset: 0, content: 　, id: KR3j0080_WYG_000-bkkind1}
   - {type: indent, offset: 2, content: 　　　　　　　　, id: KR3j0080_WYG_000-bkkind2}
   - {type: punctuation, offset: 6, content: (, id: KR3j0080_WYG_000-bkkpn1}
+  - {type: voice, offset: 6, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 10, content: /, id: KR3j0080_WYG_000-bkkpn2}
   - {type: punctuation, offset: 10, content: ), id: KR3j0080_WYG_000-bkkpn3}
   - {type: 'kr:newline', offset: 10, content: '
@@ -102,6 +103,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: KR3j0080_WYG_000-2a04}
   - {type: indent, offset: 12, content: 　　　　, id: KR3j0080_WYG_000-bkkind4}
   - {type: punctuation, offset: 12, content: (, id: KR3j0080_WYG_000-bkkpn4}
+  - {type: voice, offset: 12, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 13, content: /, id: KR3j0080_WYG_000-bkkpn5}
   - {type: punctuation, offset: 13, content: ), id: KR3j0080_WYG_000-bkkpn6}
   - {type: line-break, offset: 26, content: '', id: KR3j0080_WYG_000-2a05}
@@ -270,12 +272,15 @@ markers:
   - {type: line-break, offset: 488, content: '', id: KR3j0080_WYG_000-4a01}
   - {type: indent, offset: 488, content: 　　　　　　, id: KR3j0080_WYG_000-bkkind33}
   - {type: punctuation, offset: 491, content: (, id: KR3j0080_WYG_000-bkkpn7}
+  - {type: voice, offset: 491, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 492, content: /, id: KR3j0080_WYG_000-bkkpn8}
   - {type: punctuation, offset: 492, content: ), id: KR3j0080_WYG_000-bkkpn9}
   - {type: punctuation, offset: 494, content: (, id: KR3j0080_WYG_000-bkkpn10}
+  - {type: voice, offset: 494, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 495, content: /, id: KR3j0080_WYG_000-bkkpn11}
   - {type: punctuation, offset: 495, content: ), id: KR3j0080_WYG_000-bkkpn12}
   - {type: punctuation, offset: 498, content: (, id: KR3j0080_WYG_000-bkkpn13}
+  - {type: voice, offset: 498, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 499, content: /, id: KR3j0080_WYG_000-bkkpn14}
   - {type: punctuation, offset: 499, content: ), id: KR3j0080_WYG_000-bkkpn15}
   - {type: 'kr:newline', offset: 502, content: '
@@ -287,6 +292,7 @@ markers:
   - {type: indent, offset: 504, content: 　, id: KR3j0080_WYG_000-bkkind36}
   - {type: indent, offset: 505, content: 　, id: KR3j0080_WYG_000-bkkind37}
   - {type: punctuation, offset: 505, content: (, id: KR3j0080_WYG_000-bkkpn16}
+  - {type: voice, offset: 505, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 506, content: /, id: KR3j0080_WYG_000-bkkpn17}
   - {type: punctuation, offset: 506, content: ), id: KR3j0080_WYG_000-bkkpn18}
   - {type: indent, offset: 506, content: 　, id: KR3j0080_WYG_000-bkkind38}
@@ -308,6 +314,7 @@ markers:
   - {type: indent, offset: 518, content: 　, id: KR3j0080_WYG_000-bkkind42}
   - {type: indent, offset: 522, content: 　　　　　　　, id: KR3j0080_WYG_000-bkkind43}
   - {type: punctuation, offset: 526, content: (, id: KR3j0080_WYG_000-bkkpn19}
+  - {type: voice, offset: 526, length: 4, name: note, id: n7}
   - {type: punctuation, offset: 530, content: /, id: KR3j0080_WYG_000-bkkpn20}
   - {type: punctuation, offset: 530, content: ), id: KR3j0080_WYG_000-bkkpn21}
   - {type: 'kr:newline', offset: 530, content: '
@@ -635,6 +642,7 @@ markers:
   - {type: line-break, offset: 791, content: '', id: KR3j0080_WYG_000-8b05}
   - {type: indent, offset: 791, content: 　　　, id: KR3j0080_WYG_000-bkkind102}
   - {type: punctuation, offset: 797, content: (, id: KR3j0080_WYG_000-bkkpn22}
+  - {type: voice, offset: 797, length: 1, name: note, id: n8}
   - {type: punctuation, offset: 798, content: /, id: KR3j0080_WYG_000-bkkpn23}
   - {type: punctuation, offset: 798, content: ), id: KR3j0080_WYG_000-bkkpn24}
   - {type: 'kr:newline', offset: 798, content: '
@@ -971,4 +979,4 @@ markers:
 
       ', id: KR3j0080_WYG_000-bkkkrnewl173}
   back: []
-hash: sha256:dd74a2b651f04f54e9262fe56f74a772c092a9e80407ddb219961ef130488c1b
+hash: sha256:4854890fb3dd23939a9be66b53bbb374aa40eed0c30f0f9cf085f6ffab76a847
